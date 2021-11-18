@@ -10,21 +10,27 @@ st.set_page_config(
 st.title("Domonique Gordon")
 st.markdown("Data Engineer | Python Programmer | Navy Veteran")
 spacing()
-profile_col, mission_col = st.columns([1, 3])
+profile_col, mission_col = st.columns([1, 2])
 
 
 
 
 with profile_col:
     path = "profile_pic.png"
-    image = load_image(path)
+    image = load_image(path, 500)
     st.image(image)
 
 with mission_col:
     section = "Mission Statement"
     st.subheader(section)
-    path = f"{section}/{section}"
+    path = f"about_me/{section}"
     render_paragraph(path)
+
+    section = "About Me"
+    st.subheader(section)
+    path = f"about_me/{section}"
+    render_paragraph(path)
+
 
 
 
@@ -73,11 +79,11 @@ line()
 
 st.subheader("Performance Reviews")
 with st.expander("Click to expand"):
-    st.caption("From Data Engineering Manager - 08/09/2021")
+    st.caption("Source - Manager (Data Engineering) - 08/09/2021")
     render_paragraph("reviews/engineering_manager")
 
     spacing()
 
-    st.caption("From Senior Data Engineer - 07/26/2021")
+    st.caption("Source - Senior Data Engineer College - 07/26/2021")
     render_paragraph("reviews/senior_engineer")
 
