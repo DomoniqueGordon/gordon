@@ -1,0 +1,22 @@
+"""
+Dom's work on the Netsuite Pipeline Rearchitecture has, if anything, been undersold in his self-evaluation. 
+This was incredible work on his part. He went into some detail in his self-evaluation, 
+but the technical challenges of understanding this process flow were enormous. 
+
+The Netsuite pipeline is by far the most challenging architecture that we have in Data Engineering, 
+and Dom came in and rapidly understood the existing system and how to make it better.
+
+More importantly, Dom used this project to create a strong and lasting relationship with Kelly, 
+the person who created the original architecture. Taking over someone else's project and re-architecting 
+it takes not only technical skills, but political ones as well, and Dom excelled at making this relationship work. 
+In addition, he gained the trust of the people on the Finance team, so that any concerns they might have had about 
+someone else taking over this project were quickly dispelled.
+
+Also, I want to highlight the work Dom did with Hevo. 
+Not only did he investigate all of the possible solutions, doing an incredible amount of research work, 
+he implemented the solution all on his own, saving Curology over $1000/month with this solution. And when 
+the transition from FlyData was going to require weekend work in order to not have downtime for our customers, 
+he volunteered to do it without any complaint at all, in fact an eagerness to take on this responsibility. 
+
+That willingness to take on the large challenges is one of the most remarkable things about Dom.
+"""
