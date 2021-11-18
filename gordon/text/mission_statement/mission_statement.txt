@@ -1,20 +1,20 @@
 """
 As a Data Engineer it is my mission to empower decision making within the organization I serve 
-by building Reliable, Scalable,  Secure and Cost Effective Data Systems.
+by building Reliable, Scalable, Secure and Cost Effective Data Systems.
 
-I accomplish this by first building a thorough understanding of the current infrastructure in place.
-I then create a strategic plan to iteratively optimize and expand on this infrastructure with as little downtime as possible.
+I accomplish this by first studying and building a thorough understanding of the pros and cons of the current infrastructure.
+I then create a strategic plan to iteratively optimize this infrastructure with as little downtime as possible.
 
-I then execute on this plan by the applying my expertise with industry recognized technologies such as Python, SQL, Airflow, and Docker. 
-As well as an arsenal of innovative cloud technologies.
+For the implementation, I use industry recognized technologies such as Python, SQL, Airflow, and Docker,
+as well as an arsenal of innovative cloud technologies such as AWS S3 etc.
 
 I am a growth minded engineer who stays up to date with industry best practices by routinely taking online courses, 
 pursuing certificates, reading books and articles, watching and listening to relevant videos and podcas
 and more.
 
-I empower aspiring Data Engineers by through my mentoring so that they can learn as I learn and develop the skills that are most conducive to
-accoplishing their goals.
+I aim empower aspiring Data Engineers through my mentoring so that they can grow as I grow and develop strong technical 
+skills that are conducive to success.
 
-I absolutely love my work and it is always my pleasure to contribute to the growth of organizations with amazing cultures and captivating missions 
-for the betterment of our society.
+I absolutely love my work and love to contribute to the growth of organizations with amazing cultures 
+and captivating missions for the betterment of our society.
 """
