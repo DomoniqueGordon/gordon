@@ -1,7 +1,7 @@
 I am a growth minded engineer who stays up to date with 
 industry best practices by routinely taking online courses, 
 pursuing certificates, reading books and articles, watching 
-and listening to relevant videos and podcasts and more.
+and listening to relevant videos, podcasts and more.
 
 I strive to empower aspiring Data Engineers by mentoring 
 in my spare time. I believe it is important for us to teach 
