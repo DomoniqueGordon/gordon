@@ -1,4 +1,4 @@
-"""
+"
 Dom's work on the Netsuite Pipeline Rearchitecture has, if anything, been undersold in his self-evaluation. 
 This was incredible work on his part. He went into some detail in his self-evaluation, 
 but the technical challenges of understanding this process flow were enormous. 
@@ -19,4 +19,4 @@ the transition from FlyData was going to require weekend work in order to not ha
 he volunteered to do it without any complaint at all, in fact an eagerness to take on this responsibility. 
 
 That willingness to take on the large challenges is one of the most remarkable things about Dom.
-"""
+"

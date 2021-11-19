@@ -1,4 +1,2 @@
-"""
 Dom excels at learning new skills and gathering new domain knowledge. 
 He is an exceptional communicator and a pleasure to work with.
-"""
