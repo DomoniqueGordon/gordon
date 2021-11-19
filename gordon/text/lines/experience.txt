@@ -1,9 +1,9 @@
 Implemented Airflow framework for high scalability utilizing industry best practices.
 Built scalable connection classes for various APIs including Google Ads, Snapchat, Facebook, Paypal, Outbrain, Rockerbox and more.
-Built connection classes for cloud services including AWS S3, AWS Redshift, Snowflake, SFTPs etc.
-Created and maintained 100s of Airflow DAGs orchestrating Data Ingress Pipelines, Data Egress Pipelines, and Datamart updating.
+Built scalable connection classes for cloud services including AWS S3, AWS Redshift, Snowflake, SFTPs etc.
+Created and maintained 100s of Airflow DAGs Data Ingress Pipelines, Data Egress Pipelines, and Datamart updating.
 Created thorough of Frameworks, Processes and Workflows implemented.
 Wrote readable and consistent Python code following DRY principles and PEP8 best practices and principles.
 Wrote readable and consistent SQL code conducive to high scalability and maintainability.
-Conduct extensive research on cloud service technologies for data replication.
+Conducted extensive research on cloud service technologies for data replication.
 Implemented data replication service that replicatates over 3 million rows daily from the Application Database to the Datawarehouse.
