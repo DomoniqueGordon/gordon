@@ -7,7 +7,7 @@ understanding of the pros and cons of the current infrastructure.
 I then create a strategic plan to iteratively optimize this 
 infrastructure with as little downtime as possible.
 
-For the implementation, I use the best in industry technologies 
+For the implementation, I use industry proven technologies 
 such as Python, SQL, Airflow, and Docker, as well as an arsenal
 of innovative cloud technologies such as AWS S3 etc.
 
