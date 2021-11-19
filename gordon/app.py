@@ -1,6 +1,6 @@
 import streamlit as st
 
-from gordon.utils import load_image, spacing, line, render_lines, render_paragraph
+from utils import load_image, spacing, line, render_lines, render_paragraph
 
 st.set_page_config(
     layout="wide", page_title="Domonique Gordon", page_icon="📈"
